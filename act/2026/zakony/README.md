@@ -1,9 +1,10 @@
 # Orenburg Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 13 versions, from 2026-03-26 (latest in force: 2026-10-21) · <http://publication.pravo.gov.ru/documents/block/region56>
+Законы 2026 · 15 versions, from 2026-03-26 (latest in force: 2026-11-11) · <http://publication.pravo.gov.ru/documents/block/region56>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Закон № 100/42-VIII-ОЗ | [100-42-viii-oz.md](100-42-viii-oz.md) | 1 | 2026-11-11 |
 | Закон № 1816/761-VII-ОЗ | [1816-761-vii-oz.md](1816-761-vii-oz.md) | 0 |  |
 | Закон № 1818/762-VII-ОЗ | [1818-762-vii-oz.md](1818-762-vii-oz.md) | 0 |  |
 | Закон № 1819/764-VII-ОЗ | [1819-764-vii-oz.md](1819-764-vii-oz.md) | 0 |  |
@@ -152,3 +153,43 @@
 | Закон № 2061/906-VII-ОЗ | [2061-906-vii-oz.md](2061-906-vii-oz.md) | 1 | 2026-09-24 |
 | Закон № 2062/907-VII-ОЗ | [2062-907-vii-oz.md](2062-907-vii-oz.md) | 1 | 2026-09-24 |
 | Закон № 21/1-VIII-ОЗ | [21-1-viii-oz.md](21-1-viii-oz.md) | 1 | 2026-10-21 |
+| Закон № 33/10-VIII-ОЗ | [33-10-viii-oz.md](33-10-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 34/11-VIII-ОЗ | [34-11-viii-oz.md](34-11-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 35/12-VIII-ОЗ | [35-12-viii-oz.md](35-12-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 36/13-VIII-ОЗ | [36-13-viii-oz.md](36-13-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 37/3-VIII-ОЗ | [37-3-viii-oz.md](37-3-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 38/4-VIII-ОЗ | [38-4-viii-oz.md](38-4-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 39/5-VIII-ОЗ | [39-5-viii-oz.md](39-5-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 40/6-VIII-ОЗ | [40-6-viii-oz.md](40-6-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 41/7-VIII-ОЗ | [41-7-viii-oz.md](41-7-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 42/8-VIII-ОЗ | [42-8-viii-oz.md](42-8-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 43/9-VIII-ОЗ | [43-9-viii-oz.md](43-9-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 44/18-VIII-ОЗ | [44-18-viii-oz.md](44-18-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 45/19-VIII-ОЗ | [45-19-viii-oz.md](45-19-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 47/20-VIII-ОЗ | [47-20-viii-oz.md](47-20-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 48/21-VIII-ОЗ | [48-21-viii-oz.md](48-21-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 49/22-VIII-ОЗ | [49-22-viii-oz.md](49-22-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 50/23-VIII-ОЗ | [50-23-viii-oz.md](50-23-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 51/2-VIII-ОЗ | [51-2-viii-oz.md](51-2-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 52/15-VIII-ОЗ | [52-15-viii-oz.md](52-15-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 53/14-VIII-ОЗ | [53-14-viii-oz.md](53-14-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 54/16-VIII-ОЗ | [54-16-viii-oz.md](54-16-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 55/17-VIII-ОЗ | [55-17-viii-oz.md](55-17-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 56/24-VIII-ОЗ | [56-24-viii-oz.md](56-24-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 57/25-VIII-ОЗ | [57-25-viii-oz.md](57-25-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 58/26-VIII-ОЗ | [58-26-viii-oz.md](58-26-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 59/27-VIII-ОЗ | [59-27-viii-oz.md](59-27-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 60/28-VIII-ОЗ | [60-28-viii-oz.md](60-28-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 61/29-VIII-ОЗ | [61-29-viii-oz.md](61-29-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 62/30-VIII-ОЗ | [62-30-viii-oz.md](62-30-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 63/31-VIII-ОЗ | [63-31-viii-oz.md](63-31-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 64/32-VIII-ОЗ | [64-32-viii-oz.md](64-32-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 65/33- VIII-ОЗ | [65-33-viii-oz.md](65-33-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 66/34-VIII-ОЗ | [66-34-viii-oz.md](66-34-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 67/35-VIII-ОЗ | [67-35-viii-oz.md](67-35-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 68/36-VIII-ОЗ | [68-36-viii-oz.md](68-36-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 69/37-VIII-ОЗ | [69-37-viii-oz.md](69-37-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 70/38-VII-ОЗ | [70-38-vii-oz.md](70-38-vii-oz.md) | 1 | 2026-11-03 |
+| Закон № 71/39-VIII-ОЗ | [71-39-viii-oz.md](71-39-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 72/40-VIII-ОЗ | [72-40-viii-oz.md](72-40-viii-oz.md) | 1 | 2026-11-03 |
+| Закон № 99/41-VIII-ОЗ | [99-41-viii-oz.md](99-41-viii-oz.md) | 1 | 2026-11-11 |
