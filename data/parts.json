@@ -77,6 +77,12 @@
     "zakony-2026"
    ],
    "sha256": "a2ad59f6251c7d831506e06a216ff4ad131fedd030b7957b7ecedeeac282184e"
+  },
+  "95-watch-20261126-001.json": {
+   "acts": [
+    "zakony-2026"
+   ],
+   "sha256": "248375f817b9b20682e5678f77ba2dc1b18c8d4e84394947843a83a4bdf09f92"
   }
  },
  "schema": 1
