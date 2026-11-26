@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:01:36Z",
+ "generated": "2026-11-26T06:18:44Z",
  "latest": {
   "pravo-orenburg|russia/orenburg/acts": {
    "attempt": 1,
@@ -12,26 +12,36 @@
     "sampled": 2
    },
    "census": {
-    "checked": 2101,
+    "checked": 2106,
     "current": 2101,
     "gone": 0,
     "held": 2101,
     "newest_in_repo": "2026-11-11",
-    "pending": 0,
+    "pending": 5,
     "repo": 2101,
-    "source_in_scope": 2101
+    "source_in_scope": 2106
    },
-   "check_id": "ru-pravo-orenburg-20261125T062215Z",
-   "commits": null,
+   "check_id": "ru-pravo-orenburg-20261126T054735Z",
+   "commits": {
+    "count": 2,
+    "from": "c48add10313f648745542edf8a72d61b1156f4d5",
+    "to": "4f7c14d7b8f22bd6c087cf243c136f2076eee924"
+   },
    "corpus": "russia/orenburg/acts",
    "error": null,
-   "finished": "2026-11-25T06:23:13Z",
+   "finished": "2026-11-26T05:48:40Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region56: 2101 law-type documents listed (every page read); 2101 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "no-change",
+   "note": "publication.pravo.gov.ru, block region56: 2106 law-type documents listed (every page read); 2101 held here; 5 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
    "published": {
-    "added": [],
+    "added": [
+     "5600202611250001",
+     "5600202611250002",
+     "5600202611250003",
+     "5600202611250004",
+     "5600202611250006"
+    ],
     "changed": [],
     "removed": []
    },
@@ -39,16 +49,32 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
+    "added": [
+     "5600202611250001",
+     "5600202611250002",
+     "5600202611250003",
+     "5600202611250004",
+     "5600202611250006"
+    ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2101 law-type documents in block region56; newest published 2026-11-11",
+   "snapshot": "2106 law-type documents in block region56; newest published 2026-11-25",
    "source": "pravo-orenburg",
-   "started": "2026-11-25T06:22:15Z",
+   "started": "2026-11-26T05:47:35Z",
    "unexplained": 0,
    "update": {
-    "parts": []
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261126-001.json"
+    ]
    },
    "verify": {
     "cycle_days": 1,
@@ -57,7 +83,7 @@
     "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
     "ok": true,
     "swept": 12,
-    "versions_checked": 218,
+    "versions_checked": 219,
     "versions_differ": 0
    }
   }
