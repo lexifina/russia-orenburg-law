@@ -1,6 +1,6 @@
 # Orenburg Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 16 versions, from 2026-03-26 (latest in force: 2026-11-25) · <http://publication.pravo.gov.ru/documents/block/region56>
+Законы 2026 · 17 versions, from 2026-03-26 (latest in force: 2026-11-27) · <http://publication.pravo.gov.ru/documents/block/region56>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -10,6 +10,8 @@
 | Закон № 103/45-VIII-ОЗ | [103-45-viii-oz.md](103-45-viii-oz.md) | 1 | 2026-11-25 |
 | Закон № 104/46-VIII-ОЗ | [104-46-viii-oz.md](104-46-viii-oz.md) | 1 | 2026-11-25 |
 | Закон № 105/47-VIII-ОЗ | [105-47-viii-oz.md](105-47-viii-oz.md) | 1 | 2026-11-25 |
+| Закон № 110/48-VIII-ОЗ | [110-48-viii-oz.md](110-48-viii-oz.md) | 1 | 2026-11-27 |
+| Закон № 111/49-VIII-03 | [111-49-viii-03.md](111-49-viii-03.md) | 1 | 2026-11-27 |
 | Закон № 1816/761-VII-ОЗ | [1816-761-vii-oz.md](1816-761-vii-oz.md) | 0 |  |
 | Закон № 1818/762-VII-ОЗ | [1818-762-vii-oz.md](1818-762-vii-oz.md) | 0 |  |
 | Закон № 1819/764-VII-ОЗ | [1819-764-vii-oz.md](1819-764-vii-oz.md) | 0 |  |
